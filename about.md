@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Michael Melillo
-Data Scientist, Visualizer
+Michael Melillo  
+Data Scientist, Visualizer  
 
 This site is built with Jekyll:
 [jekyll][jekyll-organization] /
